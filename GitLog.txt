@@ -1,0 +1,29 @@
+commit 9fb4cb1f73eba42d16e2b836dc3621a4474e60dc
+Author: scottwjennen <scottwjennen@gmail.com>
+Date:   Wed Sep 2 09:12:52 2015 -0500
+
+    9/2/2015-9:12
+
+commit 1319e5400becfa2c433394dbb623aa3764b59a59
+Author: scottwjennen <scottwjennen@gmail.com>
+Date:   Wed Sep 2 09:10:39 2015 -0500
+
+    9/2/2015-9:10
+
+commit 1cec6a3e301862f145b3d4eddcf79f72c98b5783
+Author: scottwjennen <scottwjennen@gmail.com>
+Date:   Wed Sep 2 09:05:43 2015 -0500
+
+    9/2/2015-9:05
+
+commit 31bf3b14e8c15ad5526386cdd5f9fab366a1a271
+Author: scottwjennen <scottwjennen@gmail.com>
+Date:   Tue Sep 1 15:31:47 2015 -0500
+
+    9/1/2015-15:31
+
+commit a8b69510b37362d8700810df6c60de59eaf8a9a0
+Author: scottwjennen <scottwjennen@gmail.com>
+Date:   Tue Sep 1 15:29:51 2015 -0500
+
+    9/1/2015-15:29
